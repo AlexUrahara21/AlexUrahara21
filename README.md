@@ -1,7 +1,6 @@
  Hi there 👋
 ### ¡Bienvenido a mi cuenta de GitHub! 🌱
 ### Yo soy Alex y espero que estes bien! 😄
-https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
 😄Soy un apasionado de la informática y la programación, y a través de este espacio, comparto mi viaje en el mundo de la tecnología. Mi enfoque principal abarca la programación, el diseño web, el diseño gráfico y la inteligencia artificial.
 
 Encontrarás una variedad de proyectos emocionantes en los que he trabajado, desde soluciones de código innovadoras hasta creaciones visuales cautivadoras. Me encanta explorar nuevas tecnologías y estar al tanto de las últimas tendencias en el campo.
