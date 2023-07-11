@@ -17,7 +17,6 @@ Explora mi repositorio y descubre el resultado de mi pasión por la tecnología 
 
 ## Autores
 
-| [<img src="[[https://avatars.githubusercontent.com/u/37356058?v=4](https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg)](https://es.wikipedia.org/wiki/Elon_Musk)" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
 | :---: | :---: | :---: |
 
 
