@@ -1,7 +1,7 @@
 
-<h1 align="center">
-### ¡Bienvenido a github de Teen Informatics! 🌱
-  </h1>
+
+###¡Bienvenido a github de Teen Informatics! 🌱
+
 <h4 align="center">
 :construction: Proyecto en construcción, espere... :construction:
 </h4>
