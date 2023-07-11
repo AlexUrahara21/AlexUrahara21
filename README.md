@@ -6,8 +6,8 @@
 ## :hammer:Proyectos Descargables
 - `Sitios Webs`: Repositorios de sitios webs responsivos
 - `Aplicaciones Móviles`: Repositorio de aplicaciones android
-- `Diseño Web`: Archivos editables .crd, .ai. psd, .svg.
-- 
+- `Diseño Web`: Archivos editables .crd, .ai. psd, .svg
+
 ### Yo soy Alex y espero que estes bien! 😄
 😄Me gusta la tecnología y a través de este espacio, comparto mi viaje en el mundo de la tecnología. Mi enfoque principal abarca la programación, el diseño web, el diseño gráfico y la inteligencia artificial.
 
