@@ -3,8 +3,8 @@
 <h4 align="center">
 :construction: Proyecto en construcción, espere... :construction:
 </h4>
+
 ## :hammer:Proyectos Descargables
-## :hammer:Funcionalidades del proyecto
 
 - `Sitios Webs`: Repositorios de sitios webs responsivos
 - `Aplicaciones Móviles`: Repositorio de aplicaciones android
