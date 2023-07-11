@@ -1,4 +1,5 @@
- Hi there 👋
+Hola!👋
+Despliegue📦
 ### ¡Bienvenido a mi cuenta de GitHub! 🌱
 ### Yo soy Alex y espero que estes bien! 😄
 😄Soy un apasionado de la informática y la programación, y a través de este espacio, comparto mi viaje en el mundo de la tecnología. Mi enfoque principal abarca la programación, el diseño web, el diseño gráfico y la inteligencia artificial.
