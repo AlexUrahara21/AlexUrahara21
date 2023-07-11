@@ -18,6 +18,10 @@ Mi objetivo es inspirar y colaborar con otros jóvenes entusiastas de la tecnolo
 
 Explora mi repositorio y descubre el resultado de mi pasión por la tecnología y la creatividad. ¡Juntos podemos hacer grandes cosas!" ⚡
 
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
+| :---: | :---: | :---: |
 <!--
 **AlexUrahara21/AlexUrahara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
