@@ -6,7 +6,9 @@ Despliegue📦
 </h4>
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: descripción de la funcionalidad 1
+- `Funcionalidad 2`: descripción de la funcionalidad 2
+- `Funcionalidad 3`: descripción de la funcionalidad 3
 ### Yo soy Alex y espero que estes bien! 😄
 😄Soy un apasionado de la informática y la programación, y a través de este espacio, comparto mi viaje en el mundo de la tecnología. Mi enfoque principal abarca la programación, el diseño web, el diseño gráfico y la inteligencia artificial.
 
