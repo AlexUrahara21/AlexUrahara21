@@ -1,7 +1,8 @@
 
-<h4 align="center">
+<h1 align="center">
 ### ¡Bienvenido a github de Teen Informatics! 🌱
-
+  </h1>
+<h4 align="center">
 :construction: Proyecto en construcción, espere... :construction:
 </h4>
 ##:hammer:Proyectos Descargables
