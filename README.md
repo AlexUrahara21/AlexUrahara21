@@ -1,6 +1,4 @@
-
-
-###¡Bienvenido a github de Teen Informatics! 🌱
+### ¡Bienvenido a github de Teen Informatics! 🌱
 
 <h4 align="center">
 :construction: Proyecto en construcción, espere... :construction:
