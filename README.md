@@ -15,9 +15,7 @@
 Encontrarás una variedad de proyectos en los que he trabajado, desde soluciones de código innovadoras hasta creaciones visuales. Me encanta explorar nuevas tecnologías y estar al tanto de las últimas tendencias en el campo.
 Explora mi repositorio y descubre el resultado de mi pasión por la tecnología y la creatividad. ¡Juntos podemos hacer grandes cosas!" ⚡
 
-## Autores
-
-| :---: | :---: | :---: |
+## Pasatiempos
 
 
 
